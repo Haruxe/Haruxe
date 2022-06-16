@@ -1,16 +1,14 @@
-### Hi there 👋
+🎲 Hey! I'm Haruxe, welcome to my Github! 🎲
 
-<!--
-**Haruxe/Haruxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a proponent of open source content of all kinds, and contributing to other's projects which I love GitHub as a platform.
 
-Here are some ideas to get you started:
+Web3 is my main focus at the moment with websites focusing on the ethereum blockchain, but I also am a game developer with Unity and C#. You can find those games I have made on https://harux.itch.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can always find me on Twitter at https://twitter.com/haruxeETH for updates,
+and you can also message me on discord, which is Haruxe#5932.
+
+My GitHub stats are below :) 👇
+
+[![Haruxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haruxe)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haruxe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
