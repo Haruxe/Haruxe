@@ -1,20 +1,27 @@
-# 🎨 Hey there! I'm **haruxe**
+# **haruxe**
 
-**Full-Stack Developer | Front-End Lead | Open Source Advocate**
+**Full-Stack Developer | Front-End Specialist | Open Source Contributor**
 
-I'm a seasoned full-stack developer specializing in front-end development. Passionate about crafting intuitive user interfaces and seamless web experiences.
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruxe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Passionate about crafting intuitive user interfaces and seamless web experiences.
 
 ---
 
-📫 **Get in Touch**
+- **Expertise:** TypeScript, NextJS, TailwindCSS, Solidity, Foundry
+- **Experience:** Leading front-end teams and delivering high-quality projects
+- **Philosophy:** Simplicity in code, performance optimization, user-centric design
+
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haruxe&layout=compact&hide_border=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+📫 **Get in Touch:**
 
 - **Twitter:** [@haruxeETH](https://twitter.com/haruxeETH)
 - **Discord:** **haruxe**
+- **Telegram:** **@haruxe**
 
 ---
 
-*Decentralizing the web one line of code at a time.* 💫
+*Building the future of the web, one line at a time.*
