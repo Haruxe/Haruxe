@@ -14,3 +14,4 @@ Passionate about building intuitive and secure webapps for DeFi applications.
 
 - **Twitter:** [@haruxeETH](https://twitter.com/haruxeETH)
 - **Discord:** **haruxe**
+- **Website:** [haruxe.xyz](https://haruxe.xyz)
