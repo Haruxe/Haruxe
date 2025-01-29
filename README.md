@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Front-End Specialist**
 
-Passionate about building intuitive and high-performance web applications.
+Passionate about building intuitive and secure webapps in the blockchain space.
 
 ---
 
